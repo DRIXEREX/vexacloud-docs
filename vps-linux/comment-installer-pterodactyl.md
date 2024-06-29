@@ -17,3 +17,9 @@ Pour commencer, effectuez ces commandes :
 ### Installation de quelques dépendances :
 
 `apt install bash wget curl -y`
+
+### Mise en place du script d'installation
+
+`bash <(curl -s https://pterodactyl-installer.se)`
+
+# En cours de redaction ..
