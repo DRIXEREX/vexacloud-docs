@@ -1,6 +1,6 @@
 # Comment installer Pterodactyl sur un VPS Linux ?
 
-# Partie 1 : Installation du panel
+## Partie 1 : Installation du panel
 
 Chez VexaCloud, nous possédons l'installation One-Click de Pterodactyl permettant d'installer Pterodactyl avec une node, PhpMyAdmin déjà prêt a l'emploi.
 
